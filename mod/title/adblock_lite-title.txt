@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CHN: AdRules 橘猫のとおり道 AdBlock List Lite 
-! Homepage: https://adrules.5iclub.dedyn.io
+! Homepage: https://adrules.yuwell.netlib.re
 ! Powerd by 5i計劃通行
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
